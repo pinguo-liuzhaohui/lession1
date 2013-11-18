@@ -3,3 +3,5 @@ zhangjin	+2
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 zhangjin	+2
 liuhongwei add a line for testing 
+contributor -- shenqiang
+contributor -- yangbing
