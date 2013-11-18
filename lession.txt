@@ -2,4 +2,5 @@ inited at 1
 zhangjin	+2
 liuzhaohui http://rogerdudler.github.io/git-guide/index.zh.html
 zhangjin	+2
-liuhongwei add a line for testing 
+liuhongwei add a line for testing
+zhangjin	+3
